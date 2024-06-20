@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-Aaditya Gupta
+## About Me
+My name is **Aaditya Gupta**, and I go to *Granite Oaks Middle School*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
